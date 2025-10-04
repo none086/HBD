@@ -57,3 +57,9 @@
     opacity: 0;
   }
 }
+
+#heart {
+  box-shadow: 10px 10px 23px -2px rgba(86, 84, 84, 0.81);
+  -webkit-box-shadow: 10px 10px 23px -2px rgba(86, 84, 84, 0.81);
+  -moz-box-shadow: 10px 10px 23px -2px rgba(86, 84, 84, 0.81);
+}
