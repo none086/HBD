@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Vazirmatn, sans-serif;
+}
+.hbd {
+  background: url(assets/image.png) no-repeat center center;
+  background-size: contain;
+  height: 100vh;
+  margin-top: -130px;
+  margin-bottom: 0px;
+  padding-bottom: 0;
+}
+
+.lovebg {
+  background: url(./assets/love.png) no-repeat center center;
+  background-size: contain;
+  width: 100vw;
+  height: 100vh;
+  margin-top: -186px;
+}
+.lovebg2 {
+  background: url(./assets/lovebg.png) no-repeat center center;
+  background-size: contain;
+  width: 100vw;
+  height: 100vh;
+  margin-top: -186px;
+}
+.loveletter {
+  background: url(./assets/153abcf43f9d7c26fb479cfce6581675.jpg) no-repeat
+    center center;
+  background-size: contain;
+  width: 100vw;
+  height: 100vh;
+  margin-top: -105px;
+}
+
+/* @media (min-width: 768px) {
+  .lovebg {
+    height: 300px;
+  }
+} */
